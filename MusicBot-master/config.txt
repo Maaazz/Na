@@ -1,6 +1,6 @@
 token=NDkwMzUyNTQxODA1MTgyOTc2.Dn4D9g.Ng5qRClAVTsUdP_e6NzEhYnV1gM
 owner=445630664671232000
-prefix=M
+prefix=N
 game=Type Nhelp
 stayinchannel=true
 songinstatus=true

@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "Even",
+  "description": "Even",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
